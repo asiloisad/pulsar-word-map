@@ -1,12 +1,19 @@
 {
   "name": "bacadra-word-map",
   "main": "./lib/main",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Convert word acc. word map!",
-  "keywords": ["greek", "word", "map", "letter"],
+  "keywords": [
+    "greek",
+    "word",
+    "map",
+    "letter"
+  ],
   "readmeFilename": "README.md",
   "homepage": "https://github.com/bacadra/bacadra-word-map",
   "url": "https://github.com/bacadra/bacadra-word-map/issues",
   "repository": "https://github.com/bacadra/bacadra-word-map",
-  "engines": {"atom": ">=1.0.0 <2.0.0"}
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
