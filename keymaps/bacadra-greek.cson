@@ -1,0 +1,8 @@
+"atom-text-editor":
+  "f12": "bacadra-word-map:auto"
+  "alt-f12": "bacadra-word-map:selected"
+  "alt-f12 alt-1": "bacadra-word-map:fixed-1"
+  "alt-f12 alt-2": "bacadra-word-map:fixed-2"
+  "alt-f12 alt-3": "bacadra-word-map:fixed-3"
+  "alt-f12 alt-4": "bacadra-word-map:fixed-4"
+  "alt-f12 alt-5": "bacadra-word-map:fixed-5"
