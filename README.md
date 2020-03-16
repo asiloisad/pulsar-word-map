@@ -6,7 +6,6 @@ Fast way to convert fixed length word or selection to new acc. word map! User ca
 * `bacadra-word-map:selected`: look only for selected text
 * `bacadra-word-map:fixed-n`: get fixed length word and send it to convert
 
-
 e.g. the greek letters can be input very fast, e.g. input `a` and press convert key (default is `F12`).
 
 The built-in mapping:
@@ -54,10 +53,10 @@ The built-in mapping:
     `5    : ‰`,      `‰ : 5`,
     `sqrt : √`,      `√ : sqrt`
 
-## See bacadra package's for Atom IDE
+## See bacadra packages for Atom IDE
 
-- [bacadra-atom](https://github.com/asiloisad/bacadra-atom#readme) general method to co-work with python bacadra package
-- [bacadra-fold](https://github.com/asiloisad/bacadra-fold#readme) fold custom sections in various grammars files
-- [bacadra-hydrogen](https://github.com/asiloisad/bacadra-hydrogen#readme) additional method to compute with hydrogen atom package
-- [bacadra-outline](https://github.com/asiloisad/bacadra-outline#readme) outline document by custom marks
-- [bacadra-word-map](https://github.com/asiloisad/bacadra-word-map#readme) easy way to fast convert fixed-length word's, e.g. input greek letters
+* [bacadra-atom](https://github.com/bacadra/bacadra-atom) general method to co-work with python bacadra package
+* [bacadra-fold](https://github.com/bacadra/bacadra-fold) fold custom sections in various grammars files
+* [bacadra-hydrogen](https://github.com/bacadra/bacadra-hydrogen) additional method to compute with hydrogen atom package
+* [bacadra-outline](https://github.com/bacadra/bacadra-outline) outline document by custom marks
+* [bacadra-word-map](https://github.com/bacadra/bacadra-word-map) easy way to fast convert fixed-length word's, e.g. input greek letters

@@ -5,11 +5,11 @@
   "description": "Convert word acc. word map!",
   "keywords": ["greek", "word", "map", "letter"],
   "readmeFilename": "README.md",
-  "homepage": "https://github.com/asiloisad/bacadra-word-map#readme",
-  "url": "https://github.com/asiloisad/bacadra-word-map/issues",
+  "homepage": "https://github.com/bacadra/bacadra-word-map",
+  "url": "https://github.com/bacadra/bacadra-word-map/issues",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/asiloisad/bacadra-word-map.git"
+    "url": "git+https://github.com/bacadra/bacadra-word-map.git"
   },
   "engines": {"atom": ">=1.0.0 <2.0.0"}
 }
