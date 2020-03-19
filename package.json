@@ -43,7 +43,7 @@
     "url": "git+https://github.com/bacadra/word-map.git"
   },
   "url": "https://github.com/bacadra/word-map",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "activationCommands": {
     "atom-text-editor": [
       "word-map:auto",
@@ -53,5 +53,6 @@
       "word-map:fixed-3",
       "word-map:fixed-4",
       "word-map:fixed-5"
-  ]}
+    ]
+  }
 }
