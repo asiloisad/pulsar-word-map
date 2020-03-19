@@ -1,19 +1,57 @@
 {
-  "name": "bacadra-word-map",
-  "main": "./lib/main",
-  "version": "0.2.1",
+  "_from": "https://www.atom.io/api/packages/word-map/versions/0.2.1/tarball",
+  "_id": "word-map@0.2.1",
+  "_inBundle": false,
+  "_integrity": "sha512-5uCDPSWExOVUf3uFDkK9u2QOta4JHhchVw1kv3e9aO+vHW9Fj6z6R7zsdMtyU6Ax96gVvWfy4LCqpCjakD514A==",
+  "_location": "/word-map",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/word-map/versions/0.2.1/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/word-map/versions/0.2.1/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/word-map/versions/0.2.1/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/word-map/versions/0.2.1/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/word-map/versions/0.2.1/tarball",
+  "_shasum": "807ea31331438d2ac5c48c2e4046bdf6c2582fda",
+  "_spec": "https://www.atom.io/api/packages/word-map/versions/0.2.1/tarball",
+  "_where": "C:\\Users\\ASILOI~1\\AppData\\Local\\Temp\\apm-install-dir-120216-2524-13rbdze.qnsj",
+  "bugs": {
+    "url": "https://github.com/bacadra/word-map"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
   "description": "Convert word acc. word map!",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/bacadra/word-map",
   "keywords": [
     "greek",
     "word",
     "map",
     "letter"
   ],
-  "readmeFilename": "README.md",
-  "homepage": "https://github.com/bacadra/bacadra-word-map",
-  "url": "https://github.com/bacadra/bacadra-word-map/issues",
-  "repository": "https://github.com/bacadra/bacadra-word-map",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  }
+  "main": "./lib/main",
+  "name": "word-map",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bacadra/word-map.git"
+  },
+  "url": "https://github.com/bacadra/word-map",
+  "version": "0.2.1",
+  "activationCommands": {
+    "atom-text-editor": [
+      "word-map:auto",
+      "word-map:selected",
+      "word-map:fixed-1",
+      "word-map:fixed-2",
+      "word-map:fixed-3",
+      "word-map:fixed-4",
+      "word-map:fixed-5"
+  ]}
 }

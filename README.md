@@ -1,10 +1,10 @@
-# bacadra-word-map
+# word-map
 
 Fast way to convert fixed length word or selection to new acc. word map! User can set custom maping (inc. overwriting built-in data). multi-line selection is not supported. There are few methods:
 
-* `bacadra-word-map:auto`: if selection is not empty and single line, then selected text go to convert, else if selection is empty, then one char is getted.
-* `bacadra-word-map:selected`: look only for selected text
-* `bacadra-word-map:fixed-n`: get fixed length word and send it to convert
+* `word-map:auto`: if selection is not empty and single line, then selected text go to convert, else if selection is empty, then one char is getted.
+* `word-map:selected`: look only for selected text
+* `word-map:fixed-n`: get fixed length word and send it to convert
 
 e.g. the greek letters can be input very fast, e.g. input `a` and press convert key (default is `F12`).
 
@@ -53,10 +53,14 @@ The built-in mapping:
     `5    : ‰`,      `‰ : 5`,
     `sqrt : √`,      `√ : sqrt`
 
-## See bacadra packages for Atom IDE
+## See another bacadra packages...
 
-* [bacadra-atom](https://github.com/bacadra/bacadra-atom) general method to co-work with python bacadra package
-* [bacadra-fold](https://github.com/bacadra/bacadra-fold) fold custom sections in various grammars files
-* [bacadra-hydrogen](https://github.com/bacadra/bacadra-hydrogen) additional method to compute with hydrogen atom package
-* [bacadra-outline](https://github.com/bacadra/bacadra-outline) outline document by custom marks
-* [bacadra-word-map](https://github.com/bacadra/bacadra-word-map) easy way to fast convert fixed-length word's, e.g. input greek letters
+* [bacadra-atom](https://github.com/bacadra/bacadra-atom)
+* [bib-finder](https://github.com/bacadra/bib-finder)
+* [fold-section](https://github.com/bacadra/fold-section)
+* [hydrogen-run](https://github.com/bacadra/hydrogen-run)
+* [language-bacadra](https://github.com/bacadra/language-bacadra)
+* [language-sofistik](https://github.com/bacadra/language-sofistik)
+* [navigation-pane](https://github.com/bacadra/navigation-pane)
+* [sofistik-atom](https://github.com/bacadra/sofistik-atom)
+* [word-map](https://github.com/bacadra/word-map)
