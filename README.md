@@ -53,6 +53,10 @@ The built-in mapping:
     `5    : ‰`,      `‰ : 5`,
     `sqrt : √`,      `√ : sqrt`
 
+## Knows issues
+
+* text in "find-and-replace" pane cannot be replaced, instead text in TextEditor is changed :/
+
 ## See another bacadra packages...
 
 * [bacadra-atom](https://github.com/bacadra/bacadra-atom)
