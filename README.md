@@ -8,6 +8,10 @@ Fast way to convert fixed length word or selection to new acc. word map! User ca
 
 e.g. the greek letters can be input very fast, e.g. input `a` and press convert key (default is `F12`).
 
+![AutoConvert](ppt-1.gif)
+
+![SelectionConvert](ppt-2.gif)
+
 The built-in mapping:
     `q    : θ`,      `θ : q`,
     `w    : ω`,      `ω : w`,
