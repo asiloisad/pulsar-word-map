@@ -61,7 +61,7 @@ The built-in mapping:
 
 * text in "find-and-replace" pane cannot be replaced, instead text in TextEditor is changed :/
 
-## See my another packages...
+# See also
 
 * [bacadra-atom](https://github.com/bacadra/bacadra-atom)
 * [bib-finder](https://github.com/bacadra/bib-finder)
