@@ -1,8 +1,2 @@
 "atom-text-editor":
   "f12": "word-map:auto"
-  "alt-f12": "word-map:selected"
-  "alt-f12 alt-1": "word-map:fixed-1"
-  "alt-f12 alt-2": "word-map:fixed-2"
-  "alt-f12 alt-3": "word-map:fixed-3"
-  "alt-f12 alt-4": "word-map:fixed-4"
-  "alt-f12 alt-5": "word-map:fixed-5"
