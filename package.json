@@ -14,7 +14,7 @@
   "name": "word-map",
   "url": "https://github.com/bacadra/word-map",
   "repository": "https://github.com/bacadra/word-map",
-  "version": "0.6.4",
+  "version": "0.6.5",
   "activationCommands": {
     "atom-text-editor": [
       "word-map:auto",
