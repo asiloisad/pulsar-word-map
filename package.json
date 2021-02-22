@@ -1,14 +1,15 @@
 {
   "bundleDependencies": false,
   "deprecated": false,
-  "description": "Convert word acc. word map! for Atom IDE",
+  "description": "Convert word acc. word map!",
   "homepage": "https://github.com/bacadra/word-map",
   "keywords": [
     "bacadra",
     "greek",
     "word",
     "map",
-    "letter"
+    "letter",
+    "snippets"
   ],
   "main": "./lib/main",
   "name": "word-map",
