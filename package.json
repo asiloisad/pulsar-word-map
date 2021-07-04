@@ -2,7 +2,7 @@
   "bundleDependencies": false,
   "deprecated": false,
   "description": "Convert word acc. word map!",
-  "homepage": "https://github.com/bacadra/word-map",
+  "homepage": "https://github.com/bacadra/atom-word-map",
   "keywords": [
     "bacadra",
     "greek",
@@ -13,8 +13,8 @@
   ],
   "main": "./lib/main",
   "name": "word-map",
-  "url": "https://github.com/bacadra/word-map",
-  "repository": "https://github.com/bacadra/word-map",
+  "url": "https://github.com/bacadra/atom-word-map",
+  "repository": "https://github.com/bacadra/atom-word-map",
   "version": "0.6.8",
   "activationCommands": {
     "atom-text-editor": [
