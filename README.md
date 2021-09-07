@@ -1,18 +1,35 @@
 # word-map
 
-Fast way to convert fixed length word or selection to new acc. word map! User can set custom mapping (inc. overwriting built-in data). multi-line selection is not supported. There are few methods:
-
-* `word-map:auto`: if selection is not empty and single line, then selected text go to convert, else if selection is empty, then one char is used.
-* `word-map:selected`: look only for selected text
-* `word-map:fixed-n`: get fixed length word and send it to convert
-
-e.g. the greek letters can be input very fast, e.g. input `a` and press convert key (default is `F12`).
-
 ![AutoConvert](https://github.com/bacadra/word-map/blob/master/ppt-1.gif?raw=true)
 
 ![SelectionConvert](https://github.com/bacadra/word-map/blob/master/ppt-2.gif?raw=true)
 
-The built-in mapping:
+## General
+
+Fast way to convert fixed length word to another one.
+* User can use custom mapping.
+* Built-in mapping can be overwritten.
+* Multi-line selection is not supported.
+* The mutate works independent of snippets and use another convert key (default `F12`).
+* Multi-cursor is supported.
+
+## Methods
+
+The below methods can be used:
+* `word-map:auto`: if selection is not empty, then selected text go to convert. if selection is empty, then one char is used.
+* `word-map:selected`: mutate selected text.
+* `word-map:fixed-n`: get `n` letters before cursor and mutate it
+
+## Examples
+
+* the greek letters `α` can be write by input `a` and press convert key
+* the greek letters `β` can be write by input `b` and press convert key
+* the greek letters `π` can be write by input `p` and press convert key
+* the ascii square root symbol `√` can be write by input `sqrt`, selection it and press convert key
+
+
+## The built-in mapping
+
     `q    : θ`,      `θ  : q`,
     `w    : ω`,      `ω  : w`,
     `e    : ε`,      `ε  : e`,
