@@ -1,8 +1,8 @@
 # word-map
 
-![AutoConvert](https://github.com/bacadra/word-map/blob/master/ppt-1.gif?raw=true)
+![AutoConvert](https://github.com/bacadra/word-map/blob/master/assets/ppt-1.gif?raw=true)
 
-![SelectionConvert](https://github.com/bacadra/word-map/blob/master/ppt-2.gif?raw=true)
+![SelectionConvert](https://github.com/bacadra/word-map/blob/master/assets/ppt-2.gif?raw=true)
 
 ## General
 
