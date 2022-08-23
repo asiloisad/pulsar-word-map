@@ -4,9 +4,18 @@
 
 ![SelectionConvert](https://github.com/bacadra/word-map/blob/master/assets/ppt-2.gif?raw=true)
 
-## General
-
 Fast way to convert fixed length word to another one.
+
+## Installation
+
+After the announcement of Atoms sunset, the official [Atom packages store](https://atom.io/packages) isn't respond properly, so latest version of this package cannot be downloaded there. To get latest version run the shell command
+
+    apm install bacadra/atom-word-map
+
+and obtain the package directly from Github repository. Please note that package will occur in `Settings/Packages/Git Packages` instead of `Community Packages`.
+
+## Features
+
 * User can use custom mapping.
 * Built-in mapping can be overwritten.
 * Multi-line selection is not supported.
@@ -18,7 +27,7 @@ Fast way to convert fixed length word to another one.
 The below methods can be used:
 * `word-map:auto`: if selection is not empty, then selected text go to convert. if selection is empty, then one char is used.
 * `word-map:selected`: mutate selected text.
-* `word-map:fixed-n`: get `n` letters before cursor and mutate it
+* `word-map:fixed-N`: get `N` letters before cursor and mutate it
 
 ## Examples
 
@@ -26,7 +35,6 @@ The below methods can be used:
 * the greek letters `β` can be write by input `b` and press convert key
 * the greek letters `π` can be write by input `p` and press convert key
 * the ascii square root symbol `√` can be write by input `sqrt`, selection it and press convert key
-
 
 ## The built-in mapping
 
@@ -79,3 +87,23 @@ The below methods can be used:
     `(TM) : ™`,      `™  : (TM)`,
     `...  : …`,      `…  : ...`,
     `'    : "`,      `"  : '`,
+
+# Contributing
+
+If you have ideas on how to improve the package, see bugs or want to support new features, feel free to share them via GitHub.
+
+See my other packages dedicated to Atom Editor:
+
+* [autocomplete-sofistik](https://github.com/bacadra/atom-autocomplete-sofistik)
+* [bib-finder](https://github.com/bacadra/atom-bib-finder)
+* [hydrogen-run](https://github.com/bacadra/atom-hydrogen-run)
+* [image-paste](https://github.com/bacadra/atom-image-paste)
+* [language-sofistik](https://github.com/bacadra/atom-language-sofistik)
+* [navigation-panel](https://github.com/bacadra/atom-navigation-panel)
+* [open-external](https://github.com/bacadra/atom-open-external)
+* [pdf-viewer](https://github.com/bacadra/atom-pdf-viewer)
+* [project-files](https://github.com/bacadra/atom-project-files)
+* [regex-aligner](https://github.com/bacadra/atom-regex-aligner)
+* [sofistik-tools](https://github.com/bacadra/atom-sofistik-tools)
+* [super-select](https://github.com/bacadra/atom-super-select)
+* [word-map](https://github.com/bacadra/atom-word-map)
