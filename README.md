@@ -1,5 +1,10 @@
 # word-map
 
+![Tag](https://img.shields.io/github/v/tag/bacadra/atom-word-map?style=for-the-badge)
+![LastCommit](https://img.shields.io/github/last-commit/bacadra/atom-word-map?style=for-the-badge)
+![RepoSize](https://img.shields.io/github/repo-size/bacadra/atom-word-map?style=for-the-badge)
+![Licence](https://img.shields.io/github/license/bacadra/atom-word-map?style=for-the-badge)
+
 ![AutoConvert](https://github.com/bacadra/word-map/blob/master/assets/ppt-1.gif?raw=true)
 
 ![SelectionConvert](https://github.com/bacadra/word-map/blob/master/assets/ppt-2.gif?raw=true)
