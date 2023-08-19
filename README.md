@@ -1,17 +1,17 @@
 # word-map
 
 <p align="center">
-  <a href="https://github.com/bacadra/atom-word-map/tags">
-  <img src="https://img.shields.io/github/v/tag/bacadra/atom-word-map?style=for-the-badge&label=Latest&color=blue" alt="Latest">
+  <a href="https://github.com/bacadra/pulsar-word-map/tags">
+  <img src="https://img.shields.io/github/v/tag/bacadra/pulsar-word-map?style=for-the-badge&label=Latest&color=blue" alt="Latest">
   </a>
-  <a href="https://github.com/bacadra/atom-word-map/issues">
-  <img src="https://img.shields.io/github/issues-raw/bacadra/atom-word-map?style=for-the-badge&color=blue" alt="OpenIssues">
+  <a href="https://github.com/bacadra/pulsar-word-map/issues">
+  <img src="https://img.shields.io/github/issues-raw/bacadra/pulsar-word-map?style=for-the-badge&color=blue" alt="OpenIssues">
   </a>
-  <a href="https://github.com/bacadra/atom-word-map/blob/master/package.json">
-  <img src="https://img.shields.io/github/languages/top/bacadra/atom-word-map?style=for-the-badge&color=blue" alt="Language">
+  <a href="https://github.com/bacadra/pulsar-word-map/blob/master/package.json">
+  <img src="https://img.shields.io/github/languages/top/bacadra/pulsar-word-map?style=for-the-badge&color=blue" alt="Language">
   </a>
-  <a href="https://github.com/bacadra/atom-word-map/blob/master/LICENSE">
-  <img src="https://img.shields.io/github/license/bacadra/atom-word-map?style=for-the-badge&color=blue" alt="Licence">
+  <a href="https://github.com/bacadra/pulsar-word-map/blob/master/LICENSE">
+  <img src="https://img.shields.io/github/license/bacadra/pulsar-word-map?style=for-the-badge&color=blue" alt="Licence">
   </a>
 </p>
 
@@ -23,25 +23,9 @@ Fast way to convert fixed length word to another one.
 
 ## Installation
 
-### Atom Text Editor
+To install `word-map` search for [word-map](https://web.pulsar-edit.dev/packages/word-map) in the Install pane of the Pulsar settings or run `ppm install word-map`.
 
-The official Atom packages store has been [disabled](https://github.blog/2022-06-08-sunsetting-atom/). To obtain the latest version, please run the following shell command:
-
-```shell
-apm install bacadra/atom-word-map
-```
-
-This will allow you to directly download the package from the GitHub repository.
-
-### Pulsar Text Editor
-
-The package is compatible with [Pulsar](https://pulsar-edit.dev/) and can be installed using the following command:
-
-```shell
-ppm install bacadra/atom-word-map
-```
-
-Alternatively, you can directly install [word-map](https://web.pulsar-edit.dev/packages/word-map) from the Pulsar package store.
+Alternatively, run `ppm install bacadra/pulsar-word-map` to install a package directly from Github repository.
 
 ## Features
 

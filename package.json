@@ -8,11 +8,14 @@
     "letter",
     "snippets"
   ],
+  "engines": {
+    "atom": ">=1.100.0 <2.0.0"
+  },  
   "main": "./lib/main",
   "name": "word-map",
-  "homepage": "https://github.com/bacadra/atom-word-map",
-  "url": "https://github.com/bacadra/atom-word-map",
-  "repository": "https://github.com/bacadra/atom-word-map",
+  "homepage": "https://github.com/bacadra/pulsar-word-map",
+  "url": "https://github.com/bacadra/pulsar-word-map",
+  "repository": "https://github.com/bacadra/pulsar-word-map",
   "version": "0.6.26",
   "activationCommands": {
     "atom-text-editor": [
