@@ -16,7 +16,7 @@
   "homepage": "https://github.com/bacadra/pulsar-word-map",
   "url": "https://github.com/bacadra/pulsar-word-map",
   "repository": "https://github.com/bacadra/pulsar-word-map",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "activationCommands": {
     "atom-text-editor": [
       "word-map:auto",
