@@ -15,9 +15,9 @@
   </a>
 </p>
 
-![AutoConvert](https://github.com/bacadra/word-map/blob/master/assets/ppt-1.gif?raw=true)
+![AutoConvert](https://github.com/bacadra/pulsar-word-map/blob/master/assets/ppt-1.gif?raw=true)
 
-![SelectionConvert](https://github.com/bacadra/word-map/blob/master/assets/ppt-2.gif?raw=true)
+![SelectionConvert](https://github.com/bacadra/pulsar-word-map/blob/master/assets/ppt-2.gif?raw=true)
 
 Fast way to convert fixed length word to another one.
 
@@ -25,7 +25,7 @@ Fast way to convert fixed length word to another one.
 
 To install `word-map` search for [word-map](https://web.pulsar-edit.dev/packages/word-map) in the Install pane of the Pulsar settings or run `ppm install word-map`.
 
-Alternatively, run `ppm install bacadra/pulsar-word-map` to install a package directly from Github repository.
+Alternatively, you can run `ppm install bacadra/pulsar-word-map` to install a package directly from the Github repository.
 
 ## Features
 

@@ -1,2 +1,2 @@
-"atom-text-editor:not([mini])":
+"atom-text-editor":
   "f12": "word-map:auto"
