@@ -1,10 +1,10 @@
 # word-map
 
+Fast way to convert fixed length text.
+
 ![AutoConvert](https://github.com/bacadra/pulsar-word-map/blob/master/assets/ppt-1.gif?raw=true)
 
 ![SelectionConvert](https://github.com/bacadra/pulsar-word-map/blob/master/assets/ppt-2.gif?raw=true)
-
-Fast way to convert fixed length word to another one.
 
 ## Installation
 
@@ -18,11 +18,12 @@ To install `word-map` search for [word-map](https://web.pulsar-edit.dev/packages
 - The mutate works independent of snippets and use another convert key (default `F12`).
 - Multi-cursor is supported.
 
-## Methods
+## Commands
 
-The below methods can be used:
-- `word-map:auto`: if selection is not empty, then selected text go to convert. if selection is empty, then one char is used.
-- `word-map:selected`: mutate selected text.
+In `atom-text-editor` there are available commands:
+
+- `word-map:auto`: (default `F12`) if selection is not empty, then selected text go to convert, else then one char is used
+- `word-map:selected`: mutate selected text
 - `word-map:fixed-N`: get `N` letters before cursor and mutate it
 
 ## Examples
@@ -86,4 +87,4 @@ The below methods can be used:
 
 # Contributing
 
-If you have any ideas on how to improve the package, spot any bugs, or would like to support the development of new features, please feel free to share them via GitHub.
+Got ideas to make this package better, found a bug, or want to help add new features? Just drop your thoughts on GitHub — any feedback’s welcome!
