@@ -3,10 +3,9 @@
   "description": "Fast way to convert fixed length text",
   "repository": "https://github.com/bacadra/pulsar-word-map",
   "keywords": [
-    "bacadra",
-    "greek",
     "word",
     "map",
+    "greek",
     "letter",
     "snippets"
   ],
