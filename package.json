@@ -1,5 +1,7 @@
 {
+  "name": "word-map",
   "description": "Fast way to convert fixed length text",
+  "repository": "https://github.com/bacadra/pulsar-word-map",
   "keywords": [
     "bacadra",
     "greek",
@@ -8,15 +10,12 @@
     "letter",
     "snippets"
   ],
+  "version": "1.0.4",
+  "license": "MIT",
   "engines": {
     "atom": ">=1.100.0 <2.0.0"
   },
   "main": "./lib/main",
-  "name": "word-map",
-  "homepage": "https://github.com/bacadra/pulsar-word-map",
-  "url": "https://github.com/bacadra/pulsar-word-map",
-  "repository": "https://github.com/bacadra/pulsar-word-map",
-  "version": "1.0.4",
   "activationCommands": {
     "atom-text-editor": [
       "word-map:auto",
@@ -27,6 +26,5 @@
       "word-map:fixed-4",
       "word-map:fixed-5"
     ]
-  },
-  "license": "MIT"
+  }
 }
