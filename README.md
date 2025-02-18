@@ -2,13 +2,13 @@
 
 Fast way to convert fixed length text.
 
-![AutoConvert](https://github.com/bacadra/pulsar-word-map/blob/master/assets/ppt-1.gif?raw=true)
+![AutoConvert](https://github.com/asiloisad/pulsar-word-map/blob/master/assets/ppt-1.gif?raw=true)
 
-![SelectionConvert](https://github.com/bacadra/pulsar-word-map/blob/master/assets/ppt-2.gif?raw=true)
+![SelectionConvert](https://github.com/asiloisad/pulsar-word-map/blob/master/assets/ppt-2.gif?raw=true)
 
 ## Installation
 
-To install `word-map` search for [word-map](https://web.pulsar-edit.dev/packages/word-map) in the Install pane of the Pulsar settings or run `ppm install word-map`. Alternatively, you can run `ppm install bacadra/pulsar-word-map` to install a package directly from the Github repository.
+To install `word-map` search for [word-map](https://web.pulsar-edit.dev/packages/word-map) in the Install pane of the Pulsar settings or run `ppm install word-map`. Alternatively, you can run `ppm install asiloisad/pulsar-word-map` to install a package directly from the Github repository.
 
 ## Features
 

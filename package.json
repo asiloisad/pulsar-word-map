@@ -1,7 +1,7 @@
 {
   "name": "word-map",
   "description": "Fast way to convert fixed length text",
-  "repository": "https://github.com/bacadra/pulsar-word-map",
+  "repository": "https://github.com/asiloisad/pulsar-word-map",
   "keywords": [
     "word",
     "map",
