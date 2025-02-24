@@ -25,5 +25,21 @@
       "word-map:fixed-4",
       "word-map:fixed-5"
     ]
+  },
+  "configSchema": {
+    "silentQ": {
+      "order": 1,
+      "title": "Silent mode",
+      "description": "Silent the warning messages.",
+      "type": "boolean",
+      "default": false
+    },
+    "customMAP": {
+      "order": 2,
+      "title": "Custom mapping",
+      "description": "Custom mapping rules. This field should be a valid dictonary mapping without brackets e.g. `s:σ, σ:s`.",
+      "type": "string",
+      "default": ""
+    }
   }
 }

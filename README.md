@@ -6,9 +6,11 @@ Fast way to convert fixed length text.
 
 ![SelectionConvert](https://github.com/asiloisad/pulsar-word-map/blob/master/assets/ppt-2.gif?raw=true)
 
+I can recommend my other package [ahk-greek-keymap](https://github.com/asiloisad/ahk-greek-keymap), which has the same goal, but works system wide.
+
 ## Installation
 
-To install `word-map` search for [word-map](https://web.pulsar-edit.dev/packages/word-map) in the Install pane of the Pulsar settings or run `ppm install word-map`. Alternatively, you can run `ppm install asiloisad/pulsar-word-map` to install a package directly from the Github repository.
+To install `word-map` search for [word-map](https://web.pulsar-edit.dev/packages/word-map) in the Install pane of the Pulsar settings or run `ppm install word-map`. Alternatively, you can run `ppm install asiloisad/pulsar-word-map` to install a package directly from the GitHub repository.
 
 ## Features
 
