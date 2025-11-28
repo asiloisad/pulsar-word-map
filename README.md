@@ -1,12 +1,13 @@
 # word-map
 
+> [!WARNING]
+> This package is archived. Please use [ahk-greek-keymap](https://github.com/asiloisad/ahk-greek-keymap) instead, which has the same goal but works system wide.
+
 Fast way to convert fixed length text.
 
 ![AutoConvert](https://github.com/asiloisad/pulsar-word-map/blob/master/assets/ppt-1.gif?raw=true)
 
 ![SelectionConvert](https://github.com/asiloisad/pulsar-word-map/blob/master/assets/ppt-2.gif?raw=true)
-
-I can recommend my other package [ahk-greek-keymap](https://github.com/asiloisad/ahk-greek-keymap), which has the same goal, but works system wide.
 
 ## Installation
 
