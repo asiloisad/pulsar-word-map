@@ -6,7 +6,7 @@ Fast way to convert fixed length text.
 
 ![SelectionConvert](https://github.com/asiloisad/pulsar-word-map/blob/master/assets/ppt-2.gif?raw=true)
 
-I can recommend my other package [ahk-greek-keymap](https://github.com/asiloisad/ahk-greek-keymap), which has the same goal, but works system wide.
+Consider to use [ahk-greek-keymap](https://github.com/asiloisad/ahk-greek-keymap) instead, which has the same goal but works system wide.
 
 ## Installation
 
