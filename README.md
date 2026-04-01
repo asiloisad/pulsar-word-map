@@ -8,23 +8,23 @@ Fast way to convert fixed length text.
 
 Consider to use [ahk-greek-keymap](https://github.com/asiloisad/ahk-greek-keymap) instead, which has the same goal but works system wide.
 
-## Installation
-
-To install `word-map` search for [word-map](https://web.pulsar-edit.dev/packages/word-map) in the Install pane of the Pulsar settings or run `ppm install word-map`. Alternatively, you can run `ppm install asiloisad/pulsar-word-map` to install a package directly from the GitHub repository.
-
 ## Features
 
 - User can use custom mapping.
 - Built-in mapping can be overwritten.
 - Multi-line selection is not supported.
-- The mutate works independent of snippets and use another convert key (default `F12`).
+- The mutate works independent of snippets and use another convert key.
 - Multi-cursor is supported.
+
+## Installation
+
+To install `word-map` search for [word-map](https://web.pulsar-edit.dev/packages/word-map) in the Install pane of the Pulsar settings or run `ppm install word-map`. Alternatively, you can run `ppm install asiloisad/pulsar-word-map` to install a package directly from the GitHub repository.
 
 ## Commands
 
 In `atom-text-editor` there are available commands:
 
-- `word-map:auto`: (default `F12`) if selection is not empty, then selected text go to convert, else then one char is used
+- `word-map:auto`: <kbd>F12</kbd> if selection is not empty, then selected text go to convert, else then one char is used
 - `word-map:selected`: mutate selected text
 - `word-map:fixed-N`: get `N` letters before cursor and mutate it
 
